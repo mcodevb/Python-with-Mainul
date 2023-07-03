@@ -1,0 +1,22 @@
+Construct the following lambda functions
+
+1. Write a lambda function that takes two numbers as input and returns their sum.
+
+2. Write a lambda function that takes a string and returns its length.
+
+3. Write a lambda function that takes a list of numbers and returns the maximum value.
+
+4. Write a lambda function that takes a list of strings and returns a new list containing only the strings that start with the letter 'A'.
+
+5. Write a lambda function that takes a dictionary and returns the values sorted in descending order.
+
+6. Write a lambda function that takes a list of tuples where each tuple contains a name and an age, and returns a new list of names sorted alphabetically.
+
+7. Write a lambda function that takes a list of numbers and returns a new list containing only the even numbers.
+
+8. Write a lambda function that takes a list of strings and returns a new list where each string is reversed.
+
+9. Write a lambda function that takes a list of dictionaries representing students with keys "name" and "grade", and returns a new list containing only the students who have a grade higher than 80.
+
+10. Write a lambda function that takes a list of integers and returns a new list where each integer is squared.
+
